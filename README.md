@@ -1,6 +1,6 @@
 # Machine Learning Project
 <p align="center">
-  <img src="Assets/banner.png" alt="Project Banner" width="100%">
+  <img src="Assets/banner.jpg" alt="Project Banner" width="100%">
 </p>
 
 ### **Machine learning on Student dropout Dataset**
