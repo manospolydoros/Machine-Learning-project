@@ -1,9 +1,9 @@
-# 📦 Project_1
+# Machine Learning Project
 <p align="center">
   <img src="assets/banner.png" alt="Project Banner" width="100%">
 </p>
 
-### **Exploratory Data Analysis (EDA) of an Amazon Sales Dataset**
+### **Machine learning on Student dropout Dataset**
 
 **Participants:**
 Themis Mamatsopoulos · Manos Polydoros · Aikaterini Lama
@@ -14,8 +14,8 @@ Themis Mamatsopoulos · Manos Polydoros · Aikaterini Lama
 
 The dataset used for this project can be downloaded from Kaggle:
 
-🔗 **Amazon Sales Dataset**
-[https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset)
+🔗 **Student dropout dataset**
+https://www.kaggle.com/datasets/meharshanali/student-dropout-prediction-dataset
 
 Stored in the repository under:
 **`/data`**
@@ -24,24 +24,19 @@ Stored in the repository under:
 
 ## 🧹 2. Data Cleaning
 
-Data cleaning is performed using the notebook:
+EdA & Data cleaning is performed using the notebook:
 
-* **`Project1_Data_Cleaning.ipynb`**
+* **`Eda & Data Cleaning`**
 
-The cleaning process produces the following output file:
 
-* **`df_cleaned.csv`**
-
-Saved under:
-**`/cleaning`**
 
 ---
 
-## 📊 3. Exploratory Data Analysis (EDA)
+## 📊 3. Machine Learning 
 
-EDA is conducted on the cleaned dataset using:
+Machine learning is conducted on the cleaned dataset using:
 
-* **`Project1_Data_Analysis.ipynb`**
+* **`Project_Data_Analysis.ipynb`**
 
 Stored in the directory:
 **`/analysis`**
